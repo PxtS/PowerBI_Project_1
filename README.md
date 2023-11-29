@@ -8,3 +8,6 @@ Sales Analysis of company's daily record of sales data available for the course 
 ## Project Preview
 ![powerbi and sql project 1](https://github.com/PxtS/PowerBI_Project_1/assets/104605874/e7a3941e-67f7-4a3a-ad74-a3b35b9a8d8f)
 ![powerbi and sql project 2](https://github.com/PxtS/PowerBI_Project_1/assets/104605874/bdb75726-85cb-4ed2-a907-b5a8efb24f39)
+
+
+## Project Link - https://github.com/PxtS/PowerBI_Project_1/blob/main/pdf%20final%20Pizza%20Sales%20Performance%20PowerBI.pdf
